@@ -1,0 +1,524 @@
+2023-08-06 21:51:36.1496 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-06 21:51:36.1860 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-06 21:51:36.2015 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-06 21:51:36.2153 Info Configuration initialized.
+2023-08-06 21:53:29.2427 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-06 21:53:29.2427 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-06 21:53:29.2617 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-06 21:53:29.2617 Info Configuration initialized.
+2023-08-06 21:56:14.2740 Info AppDomain Shutting down. LogFactory closing...
+2023-08-06 21:56:14.2844 Info LogFactory has been closed.
+2023-08-07 18:50:12.0741 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 18:50:12.1254 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-07 18:50:12.1464 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-07 18:50:12.1611 Info Configuration initialized.
+2023-08-07 18:51:59.4015 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 18:51:59.4127 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-07 18:51:59.4227 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-07 18:51:59.4227 Info Configuration initialized.
+2023-08-07 18:54:11.3639 Info AppDomain Shutting down. LogFactory closing...
+2023-08-07 18:54:11.3639 Info LogFactory has been closed.
+2023-08-07 19:15:48.5952 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 19:15:48.5952 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-07 19:15:48.6140 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-07 19:15:48.6140 Info Configuration initialized.
+2023-08-07 19:16:57.7161 Info AppDomain Shutting down. LogFactory closing...
+2023-08-07 19:16:57.7261 Info LogFactory has been closed.
+2023-08-08 14:58:09.1593 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-08 14:58:09.1819 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-08 14:58:09.1960 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-08 14:58:09.2093 Info Configuration initialized.
+2023-08-08 15:11:38.7119 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-08 15:11:38.7232 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-08 15:11:38.7232 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-08 15:11:38.7393 Info Configuration initialized.
+2023-08-08 15:13:27.2903 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-08 15:13:27.2903 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-08 15:13:27.3095 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-08 15:13:27.3095 Info Configuration initialized.
+2023-08-08 15:13:31.6976 Info AppDomain Shutting down. LogFactory closing...
+2023-08-08 15:13:31.7061 Info LogFactory has been closed.
+2023-08-08 15:13:36.4707 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-08 15:13:36.4818 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-08 15:13:36.4818 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-08 15:13:36.5039 Info Configuration initialized.
+2023-08-08 15:14:01.1349 Info AppDomain Shutting down. LogFactory closing...
+2023-08-08 15:14:01.1428 Info LogFactory has been closed.
+2023-08-08 15:14:04.3130 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-08 15:14:04.3130 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-08 15:14:04.3321 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-08 15:14:04.3321 Info Configuration initialized.
+2023-08-08 15:16:04.6235 Info AppDomain Shutting down. LogFactory closing...
+2023-08-08 15:16:04.6315 Info LogFactory has been closed.
+2023-08-08 15:17:28.5978 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-08 15:17:28.5978 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-08 15:17:28.6211 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-08 15:17:28.6285 Info Configuration initialized.
+2023-08-08 15:18:05.5386 Info AppDomain Shutting down. LogFactory closing...
+2023-08-08 15:18:05.5480 Info LogFactory has been closed.
+2023-08-08 15:25:43.8331 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-08 15:25:43.8442 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-08 15:25:43.8442 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-08 15:25:43.8619 Info Configuration initialized.
+2023-08-08 15:30:36.8272 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-08 15:30:36.8385 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-08 15:30:36.8469 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-08 15:30:36.8469 Info Configuration initialized.
+2023-08-08 15:47:19.0601 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-08 15:47:19.0814 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-08 15:47:19.0814 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-08 15:47:19.0970 Info Configuration initialized.
+2023-08-08 15:49:03.0290 Info AppDomain Shutting down. LogFactory closing...
+2023-08-08 15:49:03.0365 Info LogFactory has been closed.
+2023-08-09 13:07:18.9703 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-09 13:07:18.9703 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-09 13:07:18.9904 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-09 13:07:18.9904 Info Configuration initialized.
+2023-08-09 13:11:54.3431 Info AppDomain Shutting down. LogFactory closing...
+2023-08-09 13:11:54.3513 Info LogFactory has been closed.
+2023-08-09 13:11:56.9159 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-09 13:11:56.9267 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-09 13:11:56.9267 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-09 13:11:56.9425 Info Configuration initialized.
+2023-08-09 13:12:49.3879 Info AppDomain Shutting down. LogFactory closing...
+2023-08-09 13:12:49.3961 Info LogFactory has been closed.
+2023-08-09 13:12:51.5762 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-09 13:12:51.5866 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-09 13:12:51.5951 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-09 13:12:51.5951 Info Configuration initialized.
+2023-08-09 13:18:11.0176 Info AppDomain Shutting down. LogFactory closing...
+2023-08-09 13:18:11.0176 Info LogFactory has been closed.
+2023-08-09 13:18:13.6968 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-09 13:18:13.7082 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-09 13:18:13.7082 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-09 13:18:13.7239 Info Configuration initialized.
+2023-08-09 13:19:27.0934 Info AppDomain Shutting down. LogFactory closing...
+2023-08-09 13:19:27.1018 Info LogFactory has been closed.
+2023-08-09 13:19:28.8140 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-09 13:19:28.8140 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-09 13:19:28.8334 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-09 13:19:28.8334 Info Configuration initialized.
+2023-08-09 13:21:08.2969 Info AppDomain Shutting down. LogFactory closing...
+2023-08-09 13:21:08.2969 Info LogFactory has been closed.
+2023-08-09 13:37:40.0541 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-09 13:37:40.0646 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-09 13:37:40.0646 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-09 13:37:40.0819 Info Configuration initialized.
+2023-08-09 13:39:27.8423 Info AppDomain Shutting down. LogFactory closing...
+2023-08-09 13:39:27.8510 Info LogFactory has been closed.
+2023-08-09 16:38:35.7142 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-09 16:38:35.7284 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-09 16:38:35.7284 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-09 16:38:35.7458 Info Configuration initialized.
+2023-08-09 16:41:29.1352 Info AppDomain Shutting down. LogFactory closing...
+2023-08-09 16:41:29.1352 Info LogFactory has been closed.
+2023-08-09 19:39:59.1426 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-09 19:39:59.1562 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-09 19:39:59.1649 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-09 19:39:59.1649 Info Configuration initialized.
+2023-08-09 19:44:57.8728 Info AppDomain Shutting down. LogFactory closing...
+2023-08-09 19:44:57.8817 Info LogFactory has been closed.
+2023-08-10 13:49:23.2147 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-10 13:49:23.2298 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-10 13:49:23.2298 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-10 13:49:23.2510 Info Configuration initialized.
+2023-08-10 13:51:24.7557 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-10 13:51:24.7797 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-10 13:51:24.7915 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-10 13:51:24.7915 Info Configuration initialized.
+2023-08-10 13:51:57.6971 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-10 13:51:57.7168 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-10 13:51:57.7288 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-10 13:51:57.7288 Info Configuration initialized.
+2023-08-10 14:09:38.4737 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-10 14:09:38.4945 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-10 14:09:38.5093 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-10 14:09:38.5231 Info Configuration initialized.
+2023-08-10 14:56:35.9133 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-10 14:56:35.9351 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-10 14:56:35.9485 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-10 14:56:35.9612 Info Configuration initialized.
+2023-08-10 15:22:26.1686 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-10 15:22:26.1929 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-10 15:22:26.2106 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-10 15:22:26.2246 Info Configuration initialized.
+2023-08-10 18:21:54.5700 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-10 18:21:54.5932 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-10 18:21:54.6095 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-10 18:21:54.6211 Info Configuration initialized.
+2023-08-10 18:26:21.0459 Info AppDomain Shutting down. LogFactory closing...
+2023-08-10 18:26:21.0619 Info LogFactory has been closed.
+2023-08-10 18:32:30.8170 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-10 18:32:30.8401 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-10 18:32:30.8538 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-10 18:32:30.8538 Info Configuration initialized.
+2023-08-10 18:33:36.3014 Info AppDomain Shutting down. LogFactory closing...
+2023-08-10 18:33:36.3180 Info LogFactory has been closed.
+2023-08-10 18:43:43.6835 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-10 18:43:43.7038 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-10 18:43:43.7170 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-10 18:43:43.7278 Info Configuration initialized.
+2023-08-11 17:33:35.9696 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-11 17:33:35.9944 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-11 17:33:36.0079 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-11 17:33:36.0079 Info Configuration initialized.
+2023-08-11 17:36:47.0310 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-11 17:36:47.0504 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-11 17:36:47.0620 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-11 17:36:47.0721 Info Configuration initialized.
+2023-08-11 18:10:07.0479 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-11 18:10:07.0695 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-11 18:10:07.0817 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-11 18:10:07.0941 Info Configuration initialized.
+2023-08-11 18:12:40.8960 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-11 18:12:40.9151 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-11 18:12:40.9151 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-11 18:12:40.9370 Info Configuration initialized.
+2023-08-11 18:19:54.7488 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-11 18:19:54.7689 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-11 18:19:54.7808 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-11 18:19:54.7911 Info Configuration initialized.
+2023-08-14 12:35:11.2636 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-14 12:35:11.2872 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-14 12:35:11.3029 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-14 12:35:11.3029 Info Configuration initialized.
+2023-08-16 15:18:36.8756 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-16 15:18:36.9009 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-16 15:18:36.9009 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-16 15:18:36.9257 Info Configuration initialized.
+2023-08-16 15:22:37.6770 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-16 15:22:37.6954 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-16 15:22:37.6954 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-16 15:22:37.7171 Info Configuration initialized.
+2023-08-16 15:24:37.5941 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-16 15:24:37.6161 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-16 15:24:37.6301 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-16 15:24:37.6301 Info Configuration initialized.
+2023-08-16 15:26:49.4863 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-16 15:26:49.5069 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-16 15:26:49.5069 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-16 15:26:49.5292 Info Configuration initialized.
+2023-08-16 15:29:19.4740 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-16 15:29:19.4937 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-16 15:29:19.4937 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-16 15:29:19.5189 Info Configuration initialized.
+2023-08-16 15:41:11.1751 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-16 15:41:11.1954 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-16 15:41:11.1954 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-16 15:41:11.2210 Info Configuration initialized.
+2023-08-16 15:45:17.0065 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-16 15:45:17.0065 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-16 15:45:17.0401 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-16 15:45:17.0401 Info Configuration initialized.
+2023-08-16 15:55:17.6059 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-16 15:55:17.6270 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-16 15:55:17.6394 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-16 15:55:17.6502 Info Configuration initialized.
+2023-08-16 15:56:44.0350 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-16 15:56:44.0572 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-16 15:56:44.0693 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-16 15:56:44.0693 Info Configuration initialized.
+2023-08-16 15:57:49.8354 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-16 15:57:49.8557 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-16 15:57:49.8679 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-16 15:57:49.8679 Info Configuration initialized.
+2023-08-17 14:58:09.9612 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-17 14:58:09.9855 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-17 14:58:09.9992 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-17 14:58:10.0100 Info Configuration initialized.
+2023-08-17 15:01:06.9649 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-17 15:01:06.9848 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-17 15:01:06.9978 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-17 15:01:06.9978 Info Configuration initialized.
+2023-08-17 15:04:06.7286 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-17 15:04:06.7487 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-17 15:04:06.7626 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-17 15:04:06.7736 Info Configuration initialized.
+2023-08-17 15:08:32.3571 Info AppDomain Shutting down. LogFactory closing...
+2023-08-17 15:08:32.3738 Info LogFactory has been closed.
+2023-08-17 15:25:08.0939 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-17 15:25:08.1212 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-17 15:25:08.1378 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-17 15:25:08.1530 Info Configuration initialized.
+2023-08-17 15:50:31.8805 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-17 15:50:31.9146 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-17 15:50:31.9146 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-17 15:50:31.9411 Info Configuration initialized.
+2023-08-17 15:51:35.6500 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-17 15:51:35.6703 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-17 15:51:35.6821 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-17 15:51:35.6821 Info Configuration initialized.
+2023-08-17 15:59:16.9278 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-17 15:59:16.9489 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-17 15:59:16.9611 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-17 15:59:16.9720 Info Configuration initialized.
+2023-08-17 16:03:45.5999 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-17 16:03:45.6200 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-17 16:03:45.6323 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-17 16:03:45.6427 Info Configuration initialized.
+2023-08-17 20:21:25.7418 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-17 20:21:25.7720 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-17 20:21:25.7855 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-17 20:21:25.7962 Info Configuration initialized.
+2023-08-17 20:25:52.4939 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-17 20:25:52.5181 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-17 20:25:52.5334 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-17 20:25:52.5477 Info Configuration initialized.
+2023-08-17 20:41:48.1790 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-17 20:41:48.1999 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-17 20:41:48.2121 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-17 20:41:48.2121 Info Configuration initialized.
+2023-08-17 20:43:27.4130 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-17 20:43:27.4368 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-17 20:43:27.4486 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-17 20:43:27.4486 Info Configuration initialized.
+2023-08-17 20:45:18.9380 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-17 20:45:18.9586 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-17 20:45:18.9724 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-17 20:45:18.9827 Info Configuration initialized.
+2023-08-17 20:48:15.5393 Info AppDomain Shutting down. LogFactory closing...
+2023-08-17 20:48:15.5393 Info LogFactory has been closed.
+2023-08-17 20:48:50.5924 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-17 20:48:50.6153 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-17 20:48:50.6302 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-17 20:48:50.6410 Info Configuration initialized.
+2023-08-17 20:52:13.5984 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-17 20:52:13.6211 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-17 20:52:13.6332 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-17 20:52:13.6332 Info Configuration initialized.
+2023-08-17 20:53:10.3278 Info AppDomain Shutting down. LogFactory closing...
+2023-08-17 20:53:10.3445 Info LogFactory has been closed.
+2023-08-17 20:53:13.5925 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-17 20:53:13.6151 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-17 20:53:13.6289 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-17 20:53:13.6399 Info Configuration initialized.
+2023-08-18 18:32:16.0579 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-18 18:32:16.0826 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-18 18:32:16.0945 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-18 18:32:16.1051 Info Configuration initialized.
+2023-08-18 19:03:31.8804 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-18 19:03:31.8918 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-18 19:03:31.8918 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-18 19:03:31.8918 Info Configuration initialized.
+2023-08-18 19:03:32.6440 Info AppDomain Shutting down. LogFactory closing...
+2023-08-18 19:03:32.6518 Info LogFactory has been closed.
+2023-08-18 19:04:23.4757 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-18 19:04:23.4856 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-18 19:04:23.4937 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-18 19:04:23.4937 Info Configuration initialized.
+2023-08-18 19:04:24.2991 Info AppDomain Shutting down. LogFactory closing...
+2023-08-18 19:04:24.2991 Info LogFactory has been closed.
+2023-08-18 19:15:10.1458 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-18 19:15:10.1559 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-18 19:15:10.1559 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-18 19:15:10.1708 Info Configuration initialized.
+2023-08-18 19:15:10.9112 Info AppDomain Shutting down. LogFactory closing...
+2023-08-18 19:15:10.9112 Info LogFactory has been closed.
+2023-08-18 19:15:56.1482 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-18 19:15:56.1582 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-18 19:15:56.1662 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-18 19:15:56.1662 Info Configuration initialized.
+2023-08-18 19:15:56.9720 Info AppDomain Shutting down. LogFactory closing...
+2023-08-18 19:15:56.9797 Info LogFactory has been closed.
+2023-08-19 12:29:16.5062 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-19 12:29:16.5300 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-19 12:29:16.5428 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-19 12:29:16.5428 Info Configuration initialized.
+2023-08-19 12:38:00.1981 Info AppDomain Shutting down. LogFactory closing...
+2023-08-19 12:38:00.2191 Info LogFactory has been closed.
+2023-08-20 13:14:29.4411 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-20 13:14:29.4731 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-20 13:14:29.4883 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-20 13:14:29.5030 Info Configuration initialized.
+2023-08-20 13:16:35.3165 Info AppDomain Shutting down. LogFactory closing...
+2023-08-20 13:16:35.3329 Info LogFactory has been closed.
+2023-08-20 13:50:05.6682 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-20 13:50:05.7149 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-20 13:50:05.7355 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-20 13:50:05.7512 Info Configuration initialized.
+2023-08-20 13:56:03.3623 Info AppDomain Shutting down. LogFactory closing...
+2023-08-20 13:56:03.3794 Info LogFactory has been closed.
+2023-08-20 13:56:38.6047 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-20 13:56:38.6243 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-20 13:56:38.6365 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-20 13:56:38.6365 Info Configuration initialized.
+2023-08-20 14:00:40.6923 Info AppDomain Shutting down. LogFactory closing...
+2023-08-20 14:00:40.7125 Info LogFactory has been closed.
+2023-08-20 14:01:10.9782 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-20 14:01:10.9985 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-20 14:01:11.0112 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-20 14:01:11.0112 Info Configuration initialized.
+2023-08-20 14:07:28.2504 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-20 14:07:28.2713 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-20 14:07:28.2863 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-20 14:07:28.3014 Info Configuration initialized.
+2023-08-20 14:11:37.7511 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-20 14:11:37.7736 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-20 14:11:37.7895 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-20 14:11:37.7895 Info Configuration initialized.
+2023-08-20 14:15:15.6004 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-20 14:15:15.6257 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-20 14:15:15.6440 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-20 14:15:15.6572 Info Configuration initialized.
+2023-08-20 16:51:11.6775 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-20 16:51:11.7047 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-20 16:51:11.7191 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-20 16:51:11.7298 Info Configuration initialized.
+2023-08-20 16:59:27.6741 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-20 16:59:27.6924 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-20 16:59:27.7058 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-20 16:59:27.7163 Info Configuration initialized.
+2023-08-20 17:18:06.6370 Info AppDomain Shutting down. LogFactory closing...
+2023-08-20 17:18:06.6570 Info LogFactory has been closed.
+2023-08-20 17:24:07.1480 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-20 17:24:07.1591 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-20 17:24:07.1673 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-20 17:24:07.1673 Info Configuration initialized.
+2023-08-20 17:24:07.9599 Info AppDomain Shutting down. LogFactory closing...
+2023-08-20 17:24:07.9671 Info LogFactory has been closed.
+2023-08-20 17:24:33.8441 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-20 17:24:33.8539 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-20 17:24:33.8539 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-20 17:24:33.8689 Info Configuration initialized.
+2023-08-20 17:24:34.6994 Info AppDomain Shutting down. LogFactory closing...
+2023-08-20 17:24:34.6994 Info LogFactory has been closed.
+2023-08-20 18:04:09.6836 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-20 18:04:09.7079 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-20 18:04:09.7212 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-20 18:04:09.7330 Info Configuration initialized.
+2023-08-20 18:15:02.9059 Info AppDomain Shutting down. LogFactory closing...
+2023-08-20 18:15:02.9234 Info LogFactory has been closed.
+2023-08-21 00:05:00.8590 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 00:05:00.8838 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 00:05:00.8976 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 00:05:00.8976 Info Configuration initialized.
+2023-08-21 00:06:24.7373 Info AppDomain Shutting down. LogFactory closing...
+2023-08-21 00:06:24.7518 Info LogFactory has been closed.
+2023-08-21 00:08:23.7277 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 00:08:23.7556 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 00:08:23.7556 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 00:08:23.7820 Info Configuration initialized.
+2023-08-21 00:10:58.4831 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 00:10:58.5046 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 00:10:58.5046 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 00:10:58.5278 Info Configuration initialized.
+2023-08-21 00:14:43.7949 Info AppDomain Shutting down. LogFactory closing...
+2023-08-21 00:14:43.8118 Info LogFactory has been closed.
+2023-08-21 00:17:32.7124 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 00:17:32.7355 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 00:17:32.7497 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 00:17:32.7612 Info Configuration initialized.
+2023-08-21 00:22:39.2269 Info AppDomain Shutting down. LogFactory closing...
+2023-08-21 00:22:39.2269 Info LogFactory has been closed.
+2023-08-21 13:51:51.3569 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 13:51:51.3691 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 13:51:51.3691 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 13:51:51.3848 Info Configuration initialized.
+2023-08-21 13:51:52.0912 Info AppDomain Shutting down. LogFactory closing...
+2023-08-21 13:51:52.0912 Info LogFactory has been closed.
+2023-08-21 13:51:55.0094 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 13:51:55.0094 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 13:51:55.0281 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 13:51:55.0281 Info Configuration initialized.
+2023-08-21 13:51:55.9080 Info AppDomain Shutting down. LogFactory closing...
+2023-08-21 13:51:55.9156 Info LogFactory has been closed.
+2023-08-21 13:52:10.3093 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 13:52:10.3198 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 13:52:10.3198 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 13:52:10.3198 Info Configuration initialized.
+2023-08-21 13:52:11.0974 Info AppDomain Shutting down. LogFactory closing...
+2023-08-21 13:52:11.0974 Info LogFactory has been closed.
+2023-08-21 13:53:08.3193 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 13:53:08.3193 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 13:53:08.3373 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 13:53:08.3373 Info Configuration initialized.
+2023-08-21 13:53:09.4721 Info AppDomain Shutting down. LogFactory closing...
+2023-08-21 13:53:09.4796 Info LogFactory has been closed.
+2023-08-21 14:08:49.4605 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 14:08:49.4872 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 14:08:49.5041 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 14:08:49.5181 Info Configuration initialized.
+2023-08-21 14:10:53.9005 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 14:10:53.9207 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 14:10:53.9340 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 14:10:53.9446 Info Configuration initialized.
+2023-08-21 14:14:33.8944 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 14:14:33.9147 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 14:14:33.9313 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 14:14:33.9313 Info Configuration initialized.
+2023-08-21 14:23:12.4051 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 14:23:12.4255 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 14:23:12.4387 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 14:23:12.4491 Info Configuration initialized.
+2023-08-21 14:23:31.4822 Info AppDomain Shutting down. LogFactory closing...
+2023-08-21 14:23:31.4969 Info LogFactory has been closed.
+2023-08-21 14:31:26.3611 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 14:31:26.3718 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 14:31:26.3803 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 14:31:26.3803 Info Configuration initialized.
+2023-08-21 14:31:27.2221 Info AppDomain Shutting down. LogFactory closing...
+2023-08-21 14:31:27.2290 Info LogFactory has been closed.
+2023-08-21 14:31:58.4870 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 14:31:58.4989 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 14:31:58.4989 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 14:31:58.5149 Info Configuration initialized.
+2023-08-21 14:31:59.3976 Info AppDomain Shutting down. LogFactory closing...
+2023-08-21 14:31:59.4047 Info LogFactory has been closed.
+2023-08-21 14:44:14.0431 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 14:44:14.0715 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 14:44:14.0896 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 14:44:14.1049 Info Configuration initialized.
+2023-08-21 14:50:40.2937 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 14:50:40.3143 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 14:50:40.3290 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 14:50:40.3425 Info Configuration initialized.
+2023-08-21 14:53:11.6110 Info AppDomain Shutting down. LogFactory closing...
+2023-08-21 14:53:11.6273 Info LogFactory has been closed.
+2023-08-21 14:53:38.7826 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 14:53:38.8129 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 14:53:38.8293 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 14:53:38.8431 Info Configuration initialized.
+2023-08-21 14:59:14.9211 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 14:59:14.9451 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 14:59:14.9617 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 14:59:14.9763 Info Configuration initialized.
+2023-08-21 15:01:34.5549 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 15:01:34.5758 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 15:01:34.5878 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 15:01:34.6010 Info Configuration initialized.
+2023-08-21 15:04:18.4547 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 15:04:18.4742 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 15:04:18.4865 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 15:04:18.4865 Info Configuration initialized.
+2023-08-21 15:08:29.8227 Info AppDomain Shutting down. LogFactory closing...
+2023-08-21 15:08:29.8399 Info LogFactory has been closed.
+2023-08-21 23:13:10.8866 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 23:13:10.9166 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 23:13:10.9293 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 23:13:10.9293 Info Configuration initialized.
+2023-08-21 23:23:23.5002 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 23:23:23.5256 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 23:23:23.5393 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 23:23:23.5524 Info Configuration initialized.
+2023-08-21 23:28:03.4682 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 23:28:03.4910 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 23:28:03.5065 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 23:28:03.5065 Info Configuration initialized.
+2023-08-21 23:28:51.7962 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 23:28:51.8070 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 23:28:51.8070 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 23:28:51.8251 Info Configuration initialized.
+2023-08-21 23:29:15.8144 Info AppDomain Shutting down. LogFactory closing...
+2023-08-21 23:29:15.8226 Info LogFactory has been closed.
+2023-08-21 23:34:47.1493 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 23:34:47.1493 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 23:34:47.1679 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 23:34:47.1679 Info Configuration initialized.
+2023-08-21 23:35:47.1586 Info AppDomain Shutting down. LogFactory closing...
+2023-08-21 23:35:47.1671 Info LogFactory has been closed.
+2023-08-21 23:36:18.4543 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-21 23:36:18.4673 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.3.1999. Product version: 5.2.3+a5ddef92a8afb22508450803e37c001f4a3ba52a. GlobalAssemblyCache: False
+2023-08-21 23:36:18.4761 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Metin\Desktop\Projeler\BTKAkademiProjeler\Api\bsStoreApp\WebApi\nlog.config
+2023-08-21 23:36:18.4761 Info Configuration initialized.
+2023-08-21 23:39:09.9256 Info AppDomain Shutting down. LogFactory closing...
+2023-08-21 23:39:09.9339 Info LogFactory has been closed.
